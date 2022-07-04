@@ -1,0 +1,21 @@
+.cc__footer{
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-family);
+  color: var(--color-text);
+}
+.cc__footer-container_link{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+.cc__footer-container_link a{
+  text-decoration: none;
+  color: var(--color-text);
+  cursor: pointer;
+}
+.copyright{
+  text-align: center;
+  margin-top: 2rem;
+}

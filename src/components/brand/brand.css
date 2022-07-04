@@ -1,0 +1,28 @@
+.cc__brand-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-family);
+  color: #3A5AAD;
+  font-weight: 400;
+}
+.cc__brand-logo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  
+}
+.cc__brand-logo div {
+  flex: 1;
+  margin: 1rem;
+  max-width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cc__brand img{
+  width: 30px;
+  height: 30px;
+}

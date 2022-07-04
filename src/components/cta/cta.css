@@ -1,0 +1,26 @@
+.cc__cta-container {
+    display: flex;
+    flex-direction: row;
+    background: var(--color-text);
+    padding: 1rem 2rem;
+    border-radius: 15px;
+    color: var(--color-cta);
+    font-family: var(--font-family);
+    align-items: center;
+    padding: 2rem;
+    justify-content: center;
+}
+.cc__cta-container button {
+    width: 227px;
+    height: 88px;
+    background: #FF5620;
+    border-radius: 5px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    border: 0;
+    color: #FFFFFF;
+    margin-left: 2rem;
+}
